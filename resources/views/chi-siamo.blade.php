@@ -65,14 +65,8 @@
         </style>
     </head>
     <body>
-        <div class="links flex-center">
-            <a href="/">Home</a>
-            <a href="/chi-siamo">Chi Siamo</a>
-            <a href="/news">News</a>
-            <a href="/blog">Blog</a>
-        </div>
         <div class="flex-center position-ref full-height">
-            <h1>HELLO WORLD.</h1>
+            <h1>CHI SIAMO</h1>
         </div>
     </body>
 </html>
